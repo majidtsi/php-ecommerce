@@ -1,0 +1,1 @@
+hello sono product details
