@@ -3,7 +3,7 @@ $servername = "localhost";
 $username = "root";
 $password = "1919";
 $dbname = "ecommerce";
-
+/*
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
 // Check connection
@@ -24,4 +24,6 @@ if ($result->num_rows > 0) {
     echo "0 results";
   }
 $conn->close();
+*/
+var_dump(unserialize(45));
 ?>
